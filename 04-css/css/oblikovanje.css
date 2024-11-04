@@ -34,22 +34,22 @@ h2 {
     background-color: rgba(51, 0, 102, 0.1);
 }
 div {
-    .slika {
-        border: 2px solid red;
-        font-size: 0.9em;
-        width: 40%;
-        text-align: left;
-        float: right;
-        margin-left: 2em;
-    }
+    .slika p:last-child {
+        font-size: 0.8em;           /* Zmanjšamo pisavo */
+        margin-top: 0;              /* Odstranimo prostor nad odstavkom */
+        background-color: #cc0000;  /* Opazen učinek, da preverite, ali deluje */
+    }    
     
 }
 
 .slika img {
-    width: 100%;
-    height: auto;
+    border-radius: 50%;
 }
 
+
+a::before {
+    content: "↗ "; /* Dodaj znak pred vsako povezavo */
+}
 
 /*  Odstranimo podčrtovanje povezav in outline (ta se včasih pokaže kot kvadratek okrog povezave)  */
 a { text-decoration: none; outline:none; }
