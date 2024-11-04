@@ -19,6 +19,38 @@ body {
     text-align: justify;
 }
 
+h1 {
+    color: #330066;
+}
+
+h2 {
+    margin-top: 2em;
+    border-top: 1px solid #AAAAAA;
+    padding-top: 0.5em;
+}
+
+#uvod {
+    padding: 2em;
+    background-color: rgba(51, 0, 102, 0.1);
+}
+div {
+    .slika {
+        border: 2px solid red;
+        font-size: 0.9em;
+        width: 40%;
+        text-align: left;
+        float: right;
+        margin-left: 2em;
+    }
+    
+}
+
+.slika img {
+    width: 100%;
+    height: auto;
+}
+
+
 /*  Odstranimo podčrtovanje povezav in outline (ta se včasih pokaže kot kvadratek okrog povezave)  */
 a { text-decoration: none; outline:none; }
 /*  Spremenimo barve povezav: neobiskanih, obiskanih, pod miško in aktivnih */
@@ -26,6 +58,8 @@ a:link { color:#cc0000; }
 a:visited { color:#660066; }
 a:hover { color:#660066; }
 a:active { color:#990000; outline:none; }
+
+
 
 code {
     font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
