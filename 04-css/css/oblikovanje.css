@@ -35,17 +35,16 @@ h2 {
 }
 div {
     .slika p:last-child {
-        font-size: 0.8em;           /* Zmanjšamo pisavo */
+        font-size: 0.8em;           /* Zmanjšamo velikost pisave */
         margin-top: 0;              /* Odstranimo prostor nad odstavkom */
-        background-color: #cc0000;  /* Opazen učinek, da preverite, ali deluje */
-    }    
+        background-color: #cc0000;  /* Dodamo opazno barvo za testiranje */
+    }        
     
 }
 
 .slika img {
     border-radius: 50%;
 }
-
 
 a::before {
     content: "↗ "; /* Dodaj znak pred vsako povezavo */
