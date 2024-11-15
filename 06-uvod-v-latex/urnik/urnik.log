@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  15 NOV 2024 00:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  15 NOV 2024 16:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -341,15 +341,15 @@ Package rerunfilecheck Info: File `urnik.out' has not changed.
 (rerunfilecheck)             Checksum: 4B448C14842E78AEA7E8F74D62630451;1917.
  ) 
 Here is how much of TeX's memory you used:
- 9814 strings out of 474486
- 156845 string characters out of 5743754
- 1937542 words of memory out of 5000000
- 31928 multiletter control sequences out of 15000+600000
+ 9816 strings out of 474486
+ 156873 string characters out of 5743754
+ 1936542 words of memory out of 5000000
+ 31930 multiletter control sequences out of 15000+600000
  618550 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,321b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on urnik.pdf (9 pages, 315394 bytes).
+Output written on urnik.pdf (9 pages, 315495 bytes).
 PDF statistics:
  202 PDF objects out of 1000 (max. 8388607)
  37 named destinations out of 1000 (max. 500000)
