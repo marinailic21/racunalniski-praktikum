@@ -1,3 +1,4 @@
+# Ignoriraj pomožne datoteke LaTeX
 *.aux
 *.fdb_latexmk
 *.fls
