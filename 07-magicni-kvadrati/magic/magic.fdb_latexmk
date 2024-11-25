@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex magic"] 1731953801.74965 "magic.aux" "magic.bbl" "magic" 1731953914.15739 0
-  "./magic.bib" 1731947683 1019 99c3aefbef6333804bf69243a0c3bf27 ""
+["bibtex magic"] 1732552638.26585 "magic.aux" "magic.bbl" "magic" 1732552640.76499 0
+  "./magic.bib" 1732552576 1063 99c3aefbef6333804bf69243a0c3bf27 ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/siam.bst" 1291864356 19403 812681d329611d2a1625ad7ae5186edc ""
-  "magic.aux" 1731953912 1248 e56c1fcd141a5ddde502d2369cefc20b "pdflatex"
+  "magic.aux" 1732552639 1248 e56c1fcd141a5ddde502d2369cefc20b "pdflatex"
   (generated)
   "magic.bbl"
   "magic.blg"
   (rewritten before read)
-["pdflatex"] 1731953912.02981 "c:/Users/ilicm/Documents/racunalniski-praktikum/07-magicni-kvadrati/magic/magic.tex" "magic.pdf" "magic" 1731953914.15917 0
-  "C:/Users/ilicm/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731949513 81760 910369822cd2d7c359b2482f4c0de4ca ""
+["pdflatex"] 1732552638.81559 "c:/Users/ilicm/Documents/racunalniski-praktikum/07-magicni-kvadrati/magic/magic.tex" "magic.pdf" "magic" 1732552640.7659 0
+  "C:/Users/ilicm/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1732300524 81760 910369822cd2d7c359b2482f4c0de4ca ""
   "C:/Users/ilicm/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1731343534 24225047 cbb5624ae43fca6d4df56821ae28024b ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc" 1256929440 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
@@ -85,14 +85,14 @@
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmtt.fd" 1430474546 2682 555da1faa2e266801e4b221d01a42cb5 ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/tex/latex/lm/ts1lmr.fd" 1430474546 1914 884882d7ebb0fd65cea93fca77ff6f5a ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/ilicm/Documents/racunalniski-praktikum/07-magicni-kvadrati/magic/magic.tex" 1731953910 12178 6eafbb9931fcffecd42ff197fd27d970 ""
-  "durer.png" 1731947683 49307 c9692a8c361fe34567154cebb97ad5d5 ""
-  "magic.aux" 1731953912 1248 e56c1fcd141a5ddde502d2369cefc20b "pdflatex"
-  "magic.bbl" 1731953802 782 d5aa657cf9b81ec8e23a021997cfc3b7 "bibtex magic"
-  "magic.tex" 1731953910 12178 6eafbb9931fcffecd42ff197fd27d970 ""
-  "magic.toc" 1731953912 471 aec3af4ef0833e6a73b7d86642eb228a "pdflatex"
-  "sagrada.png" 1731947683 118170 cc732cd2e989087e9820bfa6fd003959 ""
-  "slika.pdf" 1731947683 7184 4c49b0abdbf8a2d3c38cc176cac49f8d ""
+  "c:/Users/ilicm/Documents/racunalniski-praktikum/07-magicni-kvadrati/magic/magic.tex" 1732552629 12179 831af7c3fb06261d61c36effa2cb39f6 ""
+  "durer.png" 1732552576 49307 c9692a8c361fe34567154cebb97ad5d5 ""
+  "magic.aux" 1732552639 1248 e56c1fcd141a5ddde502d2369cefc20b "pdflatex"
+  "magic.bbl" 1732552638 782 d5aa657cf9b81ec8e23a021997cfc3b7 "bibtex magic"
+  "magic.tex" 1732552629 12179 831af7c3fb06261d61c36effa2cb39f6 ""
+  "magic.toc" 1732552639 471 aec3af4ef0833e6a73b7d86642eb228a "pdflatex"
+  "sagrada.png" 1732552576 118170 cc732cd2e989087e9820bfa6fd003959 ""
+  "slika.pdf" 1732552576 7184 4c49b0abdbf8a2d3c38cc176cac49f8d ""
   (generated)
   "magic.aux"
   "magic.log"
