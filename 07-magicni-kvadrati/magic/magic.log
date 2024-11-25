@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  25 NOV 2024 17:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  25 NOV 2024 17:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -115,15 +115,34 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
+) (C:\Users\ilicm\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen144
+\lightrulewidth=\dimen145
+\cmidrulewidth=\dimen146
+\belowrulesep=\dimen147
+\belowbottomsep=\dimen148
+\aboverulesep=\dimen149
+\abovetopsep=\dimen150
+\cmidrulesep=\dimen151
+\cmidrulekern=\dimen152
+\defaultaddspace=\dimen153
+\@cmidla=\count197
+\@cmidlb=\count198
+\@aboverulesep=\dimen154
+\@belowrulesep=\dimen155
+\@thisruleclass=\count199
+\@lastruleclass=\count266
+\@thisrulewidth=\dimen156
 )
-\c@izrek=\count197
-\c@definicija=\count198
+\c@izrek=\count267
+\c@definicija=\count268
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 31.
  (C:\Users\ilicm\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (C:\Users\ilicm\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count199
+\l__color_backend_stack_int=\count269
 \l__pdf_internal_box=\box51
 ) (magic.aux)
 \openout1 = `magic.aux'.
@@ -144,16 +163,16 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
  (C:\Users\ilicm\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count266
-\scratchdimen=\dimen144
+\scratchcounter=\count270
+\scratchdimen=\dimen157
 \scratchbox=\box52
-\nofMPsegments=\count267
-\nofMParguments=\count268
+\nofMPsegments=\count271
+\nofMParguments=\count272
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count269
-\MPscratchDim=\dimen145
-\MPnumerator=\count270
-\makeMPintoPDFobject=\count271
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen158
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
 \everyMPtoPDFconversion=\toks27
 ) (C:\Users\ilicm\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -216,33 +235,33 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 <durer.png, id=33, 65.043pt x 67.57245pt>
 File: durer.png Graphic file (type png)
 <use durer.png>
-Package pdftex.def Info: durer.png  used on input line 164.
+Package pdftex.def Info: durer.png  used on input line 170.
 (pdftex.def)             Requested size: 84.55588pt x 87.84415pt.
 <sagrada.png, id=35, 281.05pt x 210.7875pt>
 File: sagrada.png Graphic file (type png)
 <use sagrada.png>
-Package pdftex.def Info: sagrada.png  used on input line 187.
+Package pdftex.def Info: sagrada.png  used on input line 193.
 (pdftex.def)             Requested size: 281.0493pt x 210.78699pt.
 File: durer.png Graphic file (type png)
 <use durer.png>
-Package pdftex.def Info: durer.png  used on input line 192.
+Package pdftex.def Info: durer.png  used on input line 198.
 (pdftex.def)             Requested size: 65.04283pt x 67.57227pt.
- [3 <./durer.png> <./sagrada.png>] [4{C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}] [5] (magic.bbl) [6] (magic.aux)
+ [3 <./durer.png>] [4{C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc} <./sagrada.png>] [5] (magic.bbl) [6] (magic.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3121 strings out of 474486
- 53767 string characters out of 5743754
+ 3194 strings out of 474486
+ 55016 string characters out of 5743754
  1931542 words of memory out of 5000000
- 25358 multiletter control sequences out of 15000+600000
+ 25427 multiletter control sequences out of 15000+600000
  609742 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,65p,287b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,9n,65p,287b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on magic.pdf (6 pages, 418560 bytes).
+Output written on magic.pdf (6 pages, 418790 bytes).
 PDF statistics:
  116 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

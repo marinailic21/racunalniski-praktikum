@@ -7,7 +7,7 @@
 %
 \usepackage{url}
 \usepackage{graphicx}
-
+\usepackage{booktabs} 
 \theoremstyle{plain}
 \newtheorem{izrek}{Izrek}
 
@@ -73,13 +73,19 @@ Prirejeno iz virov:
 \end{definicija}
 
 Primer magičnega kvadrata reda 3 je prikazan v tabeli ?!?.
-
-% - napis nad tabelo: Magični kvadrat reda 3
+\begin{table}
+   \centering
+   \caption{Magični kvadrat reda 3}
+   \begin{tabular}{lcccccc}\toprule
+   8 & 1 & 6 \\\hline
+   3 & 5 & 7 \\\hline
+   4 & 9 & 2 \\\hline
+   \end{tabular}
+\end{table}
+% - napis nad tabelo: 
 % - oznaka: table:mag3
 % Začetek magičnega kvadrata
-%   8 & 1 & 6 \\\hline
-%   3 & 5 & 7 \\\hline
-%   4 & 9 & 2 \\\hline
+%   
 % Konec magičnega kvadrata
 
 \begin{definicija}
