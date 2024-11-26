@@ -143,10 +143,6 @@ INPUT .\sagrada.png
 INPUT .\sagrada.png
 INPUT .\sagrada.png
 INPUT .\sagrada.png
-INPUT .\durer.png
-INPUT .\durer.png
-INPUT .\durer.png
-INPUT .\durer.png
 INPUT C:\Users\ilicm\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathex.enc
 INPUT .\magic.bbl
 INPUT .\magic.bbl
@@ -169,6 +165,8 @@ INPUT C:\Users\ilicm\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi12.
 INPUT C:\Users\ilicm\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi12.pfb
 INPUT C:\Users\ilicm\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi8.pfb
 INPUT C:\Users\ilicm\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi8.pfb
+INPUT C:\Users\ilicm\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Users\ilicm\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\ilicm\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\ilicm\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\ilicm\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr17.pfb

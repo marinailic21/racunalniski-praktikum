@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex magic"] 1732553558.87834 "magic.aux" "magic.bbl" "magic" 1732553560.99538 0
+["bibtex magic"] 1732662504.13293 "magic.aux" "magic.bbl" "magic" 1732662719.14161 0
   "./magic.bib" 1732552576 1063 99c3aefbef6333804bf69243a0c3bf27 ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/siam.bst" 1291864356 19403 812681d329611d2a1625ad7ae5186edc ""
-  "magic.aux" 1732553559 1373 fc1e6714fc50c3881d3f9a340a0db680 "pdflatex"
+  "magic.aux" 1732662718 3102 851d8750a2fbd020f6a9d4251b1f08b9 "pdflatex"
   (generated)
   "magic.bbl"
   "magic.blg"
   (rewritten before read)
-["pdflatex"] 1732553559.25947 "c:/Users/ilicm/Documents/racunalniski-praktikum/07-magicni-kvadrati/magic/magic.tex" "magic.pdf" "magic" 1732553560.99622 0
+["pdflatex"] 1732662717.84319 "c:/Users/ilicm/Documents/racunalniski-praktikum/07-magicni-kvadrati/magic/magic.tex" "magic.pdf" "magic" 1732662719.14224 0
   "C:/Users/ilicm/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1732300524 81760 910369822cd2d7c359b2482f4c0de4ca ""
   "C:/Users/ilicm/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1731343534 24225047 cbb5624ae43fca6d4df56821ae28024b ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -48,6 +48,7 @@
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb" 1256929440 23055 2e5b42921de910eaa97b85df04ca4891 ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb" 1256929440 30696 3da7e46ecf5615eedebd9f27dab4d9d7 ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb" 1256929440 30635 833ec815d446ec453a4913fc26d24cbc ""
+  "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb" 1256929440 119235 05e5c8d6d60439433e50047898c2c0e0 ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb" 1256929440 113634 9384aebdf26f9881e046a4b5574566db ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb" 1256929440 119752 1bd8d06e4079df624bf59ce3ad7c9aa6 ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb" 1256929440 123394 992f5e87d698d9e94717394c62580ea6 ""
@@ -86,12 +87,12 @@
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmtt.fd" 1430474546 2682 555da1faa2e266801e4b221d01a42cb5 ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/tex/latex/lm/ts1lmr.fd" 1430474546 1914 884882d7ebb0fd65cea93fca77ff6f5a ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/ilicm/Documents/racunalniski-praktikum/07-magicni-kvadrati/magic/magic.tex" 1732553556 12315 3ad17af59d1901687c106ee6ee37d992 ""
+  "c:/Users/ilicm/Documents/racunalniski-praktikum/07-magicni-kvadrati/magic/magic.tex" 1732662717 13415 48332ca1cf6f12712c28c70174b58673 ""
   "durer.png" 1732552576 49307 c9692a8c361fe34567154cebb97ad5d5 ""
-  "magic.aux" 1732553559 1373 fc1e6714fc50c3881d3f9a340a0db680 "pdflatex"
-  "magic.bbl" 1732553559 782 d5aa657cf9b81ec8e23a021997cfc3b7 "bibtex magic"
-  "magic.tex" 1732553556 12315 3ad17af59d1901687c106ee6ee37d992 ""
-  "magic.toc" 1732553559 471 aec3af4ef0833e6a73b7d86642eb228a "pdflatex"
+  "magic.aux" 1732662718 3102 851d8750a2fbd020f6a9d4251b1f08b9 "pdflatex"
+  "magic.bbl" 1732662504 782 fedfb2f2c6af0d0f7ef7c67cfae247ad "bibtex magic"
+  "magic.tex" 1732662717 13415 48332ca1cf6f12712c28c70174b58673 ""
+  "magic.toc" 1732662718 471 eac3770e88c7182830bf464136ccdb1f "pdflatex"
   "sagrada.png" 1732552576 118170 cc732cd2e989087e9820bfa6fd003959 ""
   "slika.pdf" 1732552576 7184 4c49b0abdbf8a2d3c38cc176cac49f8d ""
   (generated)

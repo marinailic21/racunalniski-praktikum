@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  25 NOV 2024 17:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  27 NOV 2024 00:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -235,35 +235,37 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 <durer.png, id=33, 65.043pt x 67.57245pt>
 File: durer.png Graphic file (type png)
 <use durer.png>
-Package pdftex.def Info: durer.png  used on input line 170.
+Package pdftex.def Info: durer.png  used on input line 184.
 (pdftex.def)             Requested size: 84.55588pt x 87.84415pt.
-<sagrada.png, id=35, 281.05pt x 210.7875pt>
+ [3 <./durer.png>]
+<sagrada.png, id=39, 281.05pt x 210.7875pt>
 File: sagrada.png Graphic file (type png)
 <use sagrada.png>
-Package pdftex.def Info: sagrada.png  used on input line 193.
-(pdftex.def)             Requested size: 281.0493pt x 210.78699pt.
-File: durer.png Graphic file (type png)
-<use durer.png>
-Package pdftex.def Info: durer.png  used on input line 198.
-(pdftex.def)             Requested size: 65.04283pt x 67.57227pt.
- [3 <./durer.png>] [4{C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc} <./sagrada.png>] [5] (magic.bbl) [6] (magic.aux)
+Package pdftex.def Info: sagrada.png  used on input line 219.
+(pdftex.def)             Requested size: 126.47131pt x 94.8535pt.
+ [4 <./sagrada.png>]
+Overfull \hbox (51.88596pt too wide) in paragraph at lines 315--322
+ [][] 
+ []
+
+[5{C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}] [6] (magic.bbl) [7] (magic.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3194 strings out of 474486
- 55016 string characters out of 5743754
- 1931542 words of memory out of 5000000
- 25427 multiletter control sequences out of 15000+600000
+ 3205 strings out of 474486
+ 55160 string characters out of 5743754
+ 1943542 words of memory out of 5000000
+ 25438 multiletter control sequences out of 15000+600000
  609742 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,65p,287b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on magic.pdf (6 pages, 418790 bytes).
+ 57i,10n,65p,287b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/ilicm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on magic.pdf (7 pages, 447454 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
+ 126 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
