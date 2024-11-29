@@ -4,10 +4,14 @@
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{xcolor}
 %
 \usepackage{url}
 \usepackage{graphicx}
 \usepackage{booktabs} 
+\newcommand{\m}{\mathcal{M}}
+\newcommand{\pojem}[1]{\pojem{\color{purple}#1}}
 \theoremstyle{plain}
 \newtheorem{izrek}{Izrek}
 
@@ -66,13 +70,13 @@ Prirejeno iz virov:
 \section{Uvod}
 
 \begin{definicija}
-   \emph{Magični kvadrat} reda $n$ je nabor $n^2$ različnih števil,
+   \pojem{Magični kvadrat} reda $n$ je nabor $n^2$ različnih števil,
    ki so razvrščena v kvadratno tabelo tako, da vedno dobimo enako vsoto,
    če seštejemo vsa števila poljubne vrstice, vsa števila poljubnega
    stolpca ali vsa števila v katerikoli od glavnih diagonal.
 \end{definicija}
 
-Primer magičnega kvadrata reda 3 je prikazan v tabeli ?!?.
+Primer magičnega kvadrata reda 3 je prikazan v tabeli \ref{table:mag3}.
 \begin{table}[htp]
    \centering
    \caption{Magični kvadrat reda 3}
@@ -88,14 +92,14 @@ Primer magičnega kvadrata reda 3 je prikazan v tabeli ?!?.
 
 
 \begin{definicija}
-   Magični kvadrat reda $n$ je \emph{normalen}, če v njem nastopajo števila
+   Magični kvadrat reda $n$ je \pojem{normalen}, če v njem nastopajo števila
    \begin{equation}
-      % oznaka: eq:numbers
+      \label{eq:numbers}% oznaka: 
       1, 2, 3, \ldots, n^2-1, n^2.
    \end{equation}
 \end{definicija}
 
-Magični kvadrat v tabeli ?!? je normalen.
+Magični kvadrat v tabeli \ref{table:mag3} je normalen.
 To je tudi najmanjši netrivialen normalen magični kvadrat.
 Poleg normalnih magičnih kvadratov so zanimivi tudi magični kvadrati praštevil.
 
@@ -106,7 +110,7 @@ Poleg normalnih magičnih kvadratov so zanimivi tudi magični kvadrati praštevi
 \subsection{Kvadrat ">Lo Shu"<}
 
 Kitajska literatura iz časa vsaj 2800 let pred našim štetjem govori o legendi
-\emph{Lo Shu} -- ">zvitek reke Lo"<. V antični Kitajski je prišlo do
+\pojem{Lo Shu} -- ">zvitek reke Lo"<. V antični Kitajski je prišlo do
 silne poplave. Ljudje so skušali rečnemu bogu narasle reke Lo ponuditi daritev,
 da bi pomirili njegovo jezo. Iz vode se je prikazala želva z zanimivim vzorcem
 na oklepu: v tabeli velikosti tri krat tri so bila predstavljena števila, tako
@@ -137,7 +141,7 @@ v številnih kulturah, npr.\ v Egiptu in Indiji, vklesane v kamen ali
 kovino, uporabljane kot talismane za dolgo življensko dobo in v
 izogib boleznim.
 
-\emph{Kubera-Kolam} je talna poslikava, ki se uporablja v Indiji, in je v
+\pojem{Kubera-Kolam} je talna poslikava, ki se uporablja v Indiji, in je v
 obliki magičnega kvadrata reda 3. Ta je v bistvu enak kot kvadrat
 Lo Shu, vendar je vsako število povečano za 19.
 
@@ -246,36 +250,37 @@ in zato kvadrat ni normalen.
 
 \begin{definicija}
       Vsoto ene vrstice, enega stolpca ali ene od glavnih diagonal
-      v magičnem kvadratu imenujemo \emph{magična konstanta}.
+      v magičnem kvadratu imenujemo \pojem{magična konstanta}.
 \end{definicija}
 
 \begin{izrek}
-    Magična konstanta normalnega magičnega kvadrata reda !!
+    Magična konstanta normalnega magičnega kvadrata reda $n$
    je enaka
    \begin{equation}
-      % oznaka: eq:mc
-      M_2(n) = \frac{1}{2} n(n^2+1)
+      \m(n) = \frac{1}{2} n(n^2+1)
+      \label{eq:mc}
    \end{equation}
 \end{izrek}
 
 \begin{proof}[Dokaz izreka]
    V normalnem magičnem kvadratu reda $n$ je vsota vseh nastopajočih
-   števil (glej ?? na strani ??) enaka
+   števil (glej \eqref{eq:numbers} na strani \eqref{eq:mc}) enaka
    $1+2+3+\dots+n^2=\sum_{k=1}^{n^2}k=\frac{1}{2}n^2(n^2+1)$. Ker imamo
    v kvadratu $n$ vrstic z enako vsoto, je vsota števil v eni vrstici
-   enaka številu $M_2(n)$. % sklica: eq:numbers, eq:numbers
+   enaka številu $\m(n)$. 
+   % sklica: eq:numbers, eq:numbers
 \end{proof}
 
-Preprost račun pokaže, da je konstanti ?? analogna konstanta
-$M_2(n;A,D)$ za magični kvadrat, v katerem so nameščena števila
+Preprost račun pokaže, da je konstanti \eqref{eq:mc} analogna konstanta
+$\m(n;A,D)$ za magični kvadrat, v katerem so nameščena števila
 $A$, $A+D$, $A+2D$, \dots, $A+(n^2-1)D$, enaka % sklic: eq:mc
 !!
-Kvadratu v tabeli ?!? ustrezata konstanti $A=20$ in $D=1$.
+Kvadratu v tabeli \ref{table:kubera} ustrezata konstanti $A=20$ in $D=1$.
 
 \begin{definicija}
       Če vsako od števil v normalnem magičnem kvadratu reda $n$ odštejemo
       od števila $n^2+1$, dobimo nov magični kvadrat, ki je prvotnemu
-      \emph{komplementaren}.
+      \pojem{komplementaren}.
 \end{definicija}
 
 Na primer, magičnemu kvadratu Lo Shu (glej tabelo \ref{table:loshu}) priredimo
@@ -294,13 +299,13 @@ komplementarni kvadrat, prikazan v tabeli \ref{ttable:closhu}.
    \end{tabular}
 \end{table}
 Vidimo, da je dobljeni kvadrat moč dobiti iz kvadrata Lo Shu tudi z zasukom za
-180 stopinj okrog središča, kvadrat iz tabele ?!? pa je mogoče dobiti
+180 stopinj okrog središča, kvadrat iz tabele \ref{table:mag3} je mogoče dobiti
 iz kvadrata Lo Shu z zrcaljenjem preko sredinske vodoravne črte.
 
 Število različnih normalnih magičnih kvadratov
 
 \begin{definicija}
-      Pravimo, da sta dva magična kvadrata \emph{različna}, če enega ni mogoče dobiti
+      Pravimo, da sta dva magična kvadrata \pojem{različna}, če enega ni mogoče dobiti
       iz drugega s pomočjo zasukov oziroma zrcaljenj.
 \end{definicija}
 
