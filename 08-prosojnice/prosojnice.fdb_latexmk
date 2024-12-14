@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1733158789.25009 "c:/Users/ilicm/Documents/racunalniski-praktikum/08-prosojnice/prosojnice.tex" "prosojnice.pdf" "prosojnice" 1733158792.2189 0
+["pdflatex"] 1734127972.12311 "c:/Users/ilicm/Documents/racunalniski-praktikum/08-prosojnice/prosojnice.tex" "prosojnice.pdf" "prosojnice" 1734127974.01309 0
   "C:/Users/ilicm/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1733158619 81939 3d80a3cba051aa49603173dafcdf1492 ""
   "C:/Users/ilicm/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecss0800.pk" 1733158691 15956 fb5eef7f4cf2f1a76b1799c69fc09fa0 ""
   "C:/Users/ilicm/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecss1095.pk" 1733158693 21816 cf9fe7c9b8d74a9ee84ed973e8f95dbb ""
@@ -238,13 +238,13 @@
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/tex/latex/translator/translator.sty" 1622471510 8765 56d370785f0143111ff9898b5adfe08e ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/ilicm/Documents/racunalniski-praktikum/08-prosojnice/prosojnice.tex" 1733158777 1842 defe0c9bee51ba83b931dd1e6b5a7c15 ""
+  "c:/Users/ilicm/Documents/racunalniski-praktikum/08-prosojnice/prosojnice.tex" 1734127969 1845 e8f2b7b6b440cdec3705f8114e7de4f6 ""
   "predavanja.sty" 1733157892 1271 9546361f9f30288301f1cddd1feb0f5b ""
-  "prosojnice.aux" 1733158791 3449 6371f1b863408b63786ff468475e59ef "pdflatex"
-  "prosojnice.nav" 1733158791 2091 5f5d225b631b57ff963a296c15fa4d2b "pdflatex"
-  "prosojnice.out" 1733158791 857 a81989b9e0447179f9f657bd4d407b98 "pdflatex"
-  "prosojnice.tex" 1733158777 1842 defe0c9bee51ba83b931dd1e6b5a7c15 ""
-  "prosojnice/4-stolpci-slike.aux" 1733158791 838 885fb7812936f1c129e8e1c502f1b3c8 "pdflatex"
+  "prosojnice.aux" 1734127973 3449 6371f1b863408b63786ff468475e59ef "pdflatex"
+  "prosojnice.nav" 1734127973 2091 5f5d225b631b57ff963a296c15fa4d2b "pdflatex"
+  "prosojnice.out" 1734127973 857 a81989b9e0447179f9f657bd4d407b98 "pdflatex"
+  "prosojnice.tex" 1734127969 1845 e8f2b7b6b440cdec3705f8114e7de4f6 ""
+  "prosojnice/4-stolpci-slike.aux" 1734127973 838 885fb7812936f1c129e8e1c502f1b3c8 "pdflatex"
   "prosojnice/4-stolpci-slike.tex" 1733158787 2989 6b2a031029d8d24571bad1ad813c32d6 ""
   "slike/fig-1.png" 1733158753 2183 ec278e7894b81cbd8aa1b675e42cfe84 ""
   (generated)
