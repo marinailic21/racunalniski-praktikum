@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex dokument"] 1734137234.44613 "dokument.aux" "dokument.bbl" "dokument" 1734137690.65666 0
+["bibtex dokument"] 1734137234.44613 "dokument.aux" "dokument.bbl" "dokument" 1734175903.46629 0
   "./knjiga.bib" 1734127596 191 f08c118c7b575203b06d4e3d2badf4a2 ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "dokument.aux" 1734137689 677 9315f09b473b9d4dbf6a3e2eb50a04d8 "pdflatex"
+  "dokument.aux" 1734175902 677 9315f09b473b9d4dbf6a3e2eb50a04d8 "pdflatex"
   (generated)
   "dokument.bbl"
   "dokument.blg"
   (rewritten before read)
-["pdflatex"] 1734137688.95826 "c:/Users/ilicm/Documents/racunalniski-praktikum/dn-latex/dn-latex/dokument.tex" "dokument.pdf" "dokument" 1734137690.65732 0
+["pdflatex"] 1734175901.92283 "c:/Users/ilicm/Documents/racunalniski-praktikum/dn-latex/dn-latex/dokument.tex" "dokument.pdf" "dokument" 1734175903.46692 0
   "C:/Users/ilicm/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1734135072 81939 3d80a3cba051aa49603173dafcdf1492 ""
   "C:/Users/ilicm/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1731621125 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/ilicm/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs5.tfm" 1731621126 684 3a51bd4fd9600428d5264cf25f04bb9a ""
@@ -128,11 +128,11 @@
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/ilicm/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "PerrinPlot2.pdf" 1734127596 99433 be6f48dd776ad23017b3490374ec9838 ""
-  "c:/Users/ilicm/Documents/racunalniski-praktikum/dn-latex/dn-latex/dokument.tex" 1734137688 2591 9cdaf2d9d849c5a53792ee96410633f2 ""
-  "dokument.aux" 1734137689 677 9315f09b473b9d4dbf6a3e2eb50a04d8 "pdflatex"
+  "c:/Users/ilicm/Documents/racunalniski-praktikum/dn-latex/dn-latex/dokument.tex" 1734175901 2601 4bd8339f610f1152f0ef44a8b27577c6 ""
+  "dokument.aux" 1734175902 677 9315f09b473b9d4dbf6a3e2eb50a04d8 "pdflatex"
   "dokument.bbl" 1734137234 212 a2a9d39231d2b7a3f3f0512b17f5f723 "bibtex dokument"
-  "dokument.out" 1734137689 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "dokument.tex" 1734137688 2591 9cdaf2d9d849c5a53792ee96410633f2 ""
+  "dokument.out" 1734175902 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "dokument.tex" 1734175901 2601 4bd8339f610f1152f0ef44a8b27577c6 ""
   (generated)
   "dokument.aux"
   "dokument.log"
